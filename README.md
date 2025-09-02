@@ -13,8 +13,7 @@ You can find the following files here:
    `adv_sales_analysis (1).pbix`
    `adv_sales_analysis dashboard.pdf`
    `salesquery1.sql`
-   `LICENSE`
-   `README.md` (this file)
+   
 
 ## Key Performance Indicators (KPIs)
 
